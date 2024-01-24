@@ -1,0 +1,30 @@
+h1 {
+  color: white;
+  font-family: Shadows Into Light Two;
+  font-size: 70px;
+  position: relative;
+  top: 655px;
+  text-align: center;
+  -webkit-text-stroke-width: 1px;
+  -webkit-text-stroke-color: black;
+}
+
+button {
+  font-family: Kalam;
+  background-color: darkgreen;
+  border: none;
+  color: white;
+  padding: 15px 32px;
+  text-align: center;
+  text-decoration: none;
+  display: inline-block;
+  font-size: 50px;
+  position: relative;
+  top: 750px;
+  left: 320px;
+}
+
+button:hover {
+  background-color: white;
+  display: block;
+}
