@@ -1,0 +1,29 @@
+h1 {
+  color: white;
+  font-family: Nanum Pen Script;
+  font-size: 70px;
+  position: relative;
+  top: 830px;
+  text-align: center;
+  -webkit-text-stroke-width: 1px;
+  -webkit-text-stroke-color: black;
+}
+
+.img1 {
+  position: absolute;
+  height: 55em;
+  width: 45em;
+  left: 150px;
+}
+
+.img2 {
+  position: absolute;
+  height: 65em;
+  width: 48em;
+  left: 110px;
+  margin-top: 800px;
+}
+
+.eyes {
+  color: blue;
+}
